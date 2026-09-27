@@ -1,0 +1,61 @@
+name : Tanuj
+
+Profession : Student
+
+mobiles :
+    - samsung s26 ultra
+    - samsung s26
+    - Realme 16 pro
+    - Realme 16 pro+
+    - Iqoo Z11 
+    - Iqoo Z11x 
+    - oneplus Nord 6 
+    - oneplus Nord ce6
+    - google  pixel 11 
+    - google pixel 11 pro 
+    - iphone 18 pro 
+    - iphone pro max
+    - vivo x300 
+    - vivo x300 Profession
+    - nothing 4a 
+    - nothing 4a pro
+    - poco F7 
+    - poco m8 pro
+    - samsung F70 pro 
+    - Redmi note 17 
+    - Samsung Galaxy Z Fold 7
+    - Google Pixel 11 Pro Fold
+    - moto Razr 70
+
+flagships & premium mobiles :
+    - samsung  s26 ultra
+    - google pixel 11 pro
+    - iphone 18 pro 
+    - iphone 18 pro max
+    - vivo X300 
+    - vivo X300 pr0
+
+all round mobiles : 
+    - samsung s26
+    - google pixel 11
+    - poco F7
+    - oneplus Nord 6
+    - nothing 4a pro
+
+Mid-Range :
+    - Realme 16 
+    - Realme 16 pro
+    - iqoo Z11
+    - samsubg F70 
+    - nothing 4a 
+
+Buget mobiles :
+    - iqoo Z11x
+    - oneplus nord ce6
+    - poco m8 pro
+    - redmi note 17
+
+Foldables : 
+    - samsung galaxy Z Fold 7
+    - Google Pixel 11 pro Fold
+    - motorola Razr 70
